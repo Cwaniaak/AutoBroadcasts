@@ -1,5 +1,5 @@
 # AutoBroadcasts
-Simple plugin for automatic Broadcast every x seconds.
+Simple plugin to automatically send a Broadcast every x seconds.
 ## Config
 ```auto_broadcasts:
   is_enabled: true
